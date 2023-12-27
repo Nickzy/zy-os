@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[35],{94472:function(e,t,n){n.r(t),n.d(t,{default:function(){return i}});var d=n(50107);function i(){return(0,d.jsx)("div",{style:{width:"100%",height:"500px",lineHeight:"500px",border:"1px #dddddd solid",textAlign:"center"},children:"智慧人才公寓"})}}}]);
